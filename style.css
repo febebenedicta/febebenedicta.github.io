@@ -1,0 +1,74 @@
+img {
+	border-radius: 50%;
+	vertical-align: middle;
+	height: 300px;
+	width: 300px;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1{
+	font-family: Lucida Console;
+	font-weight: bold;
+	font-size: 65px;
+	font-stretch: bolder;
+	color: #ff857a;
+	text-align: center;
+}
+	
+p{
+	font-family: verdana;
+	font-size: 17px;
+	line-height: 1.75em;
+	color: #ffc2a3;
+	text-align: center;
+}
+
+html{
+	background-color: #ffbd66;
+}
+
+body{
+	background-color: #ffffcc;
+	border-style: dotted;
+	border-radius: 30px;
+	border-color: white;
+}
+
+h2{
+	font-family: Lucida Console;
+	font-weight: bold;
+	font-size: 30px;
+	font-stretch: bolder;
+	color: #ff857a;
+	text-align: left;
+}
+
+h3{
+	font-family: Lucida Console;
+	font-weight: bold;
+	font-size: 30px;
+	font-stretch: bolder;
+	color: #ff857a;
+	text-align: left;
+}
+
+ul{
+	 font-family: monospace;
+	 font-size: 20px;
+	 color:#ff9e91;
+	 font-weight: normal;
+}
+
+h4{
+	font-family: Lucida Console;
+	font-weight: bold;
+	font-size: 30px;
+	font-stretch: bolder;
+	color: #ff857a;
+	text-align: center
+}
